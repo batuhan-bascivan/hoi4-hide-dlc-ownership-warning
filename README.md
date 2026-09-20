@@ -1,7 +1,5 @@
 # Hide Ownership Warning
 
-![logo](hide_ownership_warning/thumbnail.png)
-
 You have this weird ownership message for some mysterious reason. This mod removes it. Don't ask questions.
 
 ## What it does
